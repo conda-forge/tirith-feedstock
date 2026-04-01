@@ -1,5 +1,5 @@
 context:
-  version: "0.2.11"
+  version: "0.2.12"
 
 package:
   name: tirith
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/sheeki03/tirith/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: 605fbd10b44cfc09fc7ea4c6ef22b4235f0c376a0c16b0ec2b6f1e806003e604
+  sha256: 45aab3e558f148c397d3b60c348fef709a1ca601e44915896bc16443181e4cc3
 
 build:
   number: 0
